@@ -21,7 +21,7 @@
 - 🌱 &nbsp;Currently learning **Python**, **Machine Learning**, and **Data Science basics**  
 - 🤖 &nbsp;Interested in **AI development**, **Deep Learning**, and **Natural Language Processing**  
 - 💡 &nbsp;I’m building my **GitHub projects portfolio** to document my learning journey  
-- 📬 &nbsp;You can reach me anytime on **[LinkedIn](https://www.linkedin.com/in/your-linkedin/)**  
+- 📬 &nbsp;You can reach me anytime on **[LinkedIn](https://www.linkedin.com/in/mohamed-elashmawy-347b0a307)**  
 
 <br>
 
