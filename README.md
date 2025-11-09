@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mohamed-elashmawy-347b0a307">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
-  <a href="mailto:alashmawym22@gmail.com">
+  <a href="alashmawym22@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail">
   </a>
 </p>
