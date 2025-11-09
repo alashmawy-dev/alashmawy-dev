@@ -1,4 +1,4 @@
-<h1 align="left" id="mohamed-title">👋 Hello there! I'm Mohamed Ahmed</h1>
+<h1 align="left" id="mohamed-title">👋 Hello there! I'm Mohamed Elashmawy</h1>
 <h3 align="left">Aspiring AI & Machine Learning Engineer</h3>
 
 <p align="left">
