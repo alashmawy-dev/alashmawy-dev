@@ -39,30 +39,6 @@
     </td>
     <td align="center" width="96">
       <a href="#mohamed-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
-      </a>
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamed-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      </a>
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamed-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" />
-      </a>
-      <br>Keras
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamed-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48" height="48" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="#mohamed-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
@@ -77,6 +53,22 @@
 </table>
 
 <h2 align="left">Learning Journey</h2>
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+---
+
+🎯 **Future Goals**
+- Build and share my first complete Python & ML projects  
+- Contribute to open-source AI projects  
+- Continue improving coding and problem-solving skills  
+
+---
+
+✨ *“Every expert was once a beginner.”*  
+
+
 
 > Currently focusing on learning fundamentals, solving problems, and building small ML projects to strengthen my understanding.
 
